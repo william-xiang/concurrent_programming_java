@@ -1,0 +1,176 @@
+2020-04-21 20:27:56,490 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-04-21 20:28:16,470 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.coursera.concurrent:miniproject_1:0.0 @ C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\pom.xml.
+2020-04-21 20:28:16,907 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_1/src/main/java
+2020-04-21 20:28:16,908 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /miniproject_1/src/main/resources
+2020-04-21 20:28:16,909 [Worker-9: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_1/src/test/java
+2020-04-21 20:28:17,013 [Worker-9: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-04-21 20:28:18,406 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:28:18,411 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:28:18,427 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:28:18,427 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:28:35,682 [Worker-8: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1
+2020-04-21 20:28:35,682 [Worker-8: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-21 20:28:38,124 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:28:38,125 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:28:38,126 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:28:38,127 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:32:15,714 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-04-21 20:32:28,503 [Worker-4: Launching miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1
+2020-04-21 20:32:28,503 [Worker-4: Launching miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B 
+2020-04-21 20:32:54,308 [Worker-12: Launching Executing install in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1
+2020-04-21 20:32:54,308 [Worker-12: Launching Executing install in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-04-21 20:32:59,933 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:32:59,934 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:32:59,935 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:32:59,935 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:34:12,896 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.coursera.concurrent:miniproject_0:0.0 @ C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\pom.xml.
+2020-04-21 20:34:13,467 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_0/src/main/java
+2020-04-21 20:34:13,467 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /miniproject_0/src/main/resources
+2020-04-21 20:34:13,485 [Worker-6: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_0/src/test/java
+2020-04-21 20:34:13,989 [Worker-6: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2020-04-21 20:34:14,580 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:34:14,581 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:34:14,602 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:34:14,602 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:34:15,398 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://raw.github.com/habanero-maven/hjlib-maven-repo/mvn-repo-pcdp-0.0.4-SNAPSHOT/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-SNAPSHOT-sources.jar
+2020-04-21 20:34:15,488 [Worker-4: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for edu.rice.pcdp:pcdp-core:0.0.4-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact edu.rice.pcdp:pcdp-core:jar:sources:0.0.4-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:254) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-04-21 20:34:15,716 [Worker-4: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://raw.github.com/habanero-maven/hjlib-maven-repo/mvn-repo-pcdp-0.0.4-SNAPSHOT/edu/rice/pcdp/pcdp-core/0.0.4-SNAPSHOT/pcdp-core-0.0.4-SNAPSHOT-javadoc.jar
+2020-04-21 20:34:15,734 [Worker-4: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download javadoc for edu.rice.pcdp:pcdp-core:0.0.4-SNAPSHOT
+org.eclipse.core.runtime.CoreException: Could not resolve artifact edu.rice.pcdp:pcdp-core:jar:javadoc:0.0.4-SNAPSHOT
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$4(MavenImpl.java:763) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:731) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:708) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:279) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:265) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:221) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:161) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:137) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:177) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1336) [org.eclipse.m2e.core_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:135) [org.eclipse.m2e.jdt_1.11.0.20190220-2119.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) [org.eclipse.core.jobs_3.10.300.v20190215-2048.jar:na]
+2020-04-21 20:34:24,712 [Worker-1: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0
+2020-04-21 20:34:24,712 [Worker-1: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-21 20:34:28,379 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:34:28,379 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:34:28,380 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:34:28,380 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:37:18,174 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:18,175 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:37:18,175 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:18,176 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:37:18,184 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:18,184 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:37:18,185 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:18,186 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:37:33,121 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-04-21 20:37:33,510 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.coursera.concurrent:miniproject_0:0.0 @ C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\pom.xml.
+2020-04-21 20:37:33,639 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.coursera.concurrent:miniproject_1:0.0 @ C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\pom.xml.
+2020-04-21 20:37:33,934 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_0/src/main/java
+2020-04-21 20:37:33,934 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /miniproject_0/src/main/resources
+2020-04-21 20:37:33,935 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_0/src/test/java
+2020-04-21 20:37:33,998 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_1/src/main/java
+2020-04-21 20:37:33,998 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /miniproject_1/src/main/resources
+2020-04-21 20:37:33,999 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /miniproject_1/src/test/java
+2020-04-21 20:37:34,147 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-04-21 20:37:34,429 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:34,429 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:37:34,443 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:34,443 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:37:34,781 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:34,782 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:37:34,795 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:34,795 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:37:43,299 [Worker-8: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0
+2020-04-21 20:37:43,300 [Worker-8: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-21 20:37:47,740 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:47,742 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:37:47,743 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:37:47,743 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:40:33,420 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:33,426 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:40:33,435 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:33,435 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:40:33,583 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:33,584 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 20:40:33,594 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:33,594 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 20:40:43,488 [Worker-18: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0
+2020-04-21 20:40:43,488 [Worker-18: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-21 20:40:48,716 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:48,716 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-04-21 20:40:48,717 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 20:40:48,717 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_0\src\test\resources
+2020-04-21 20:41:19,133 [Worker-9: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1
+2020-04-21 20:41:19,133 [Worker-9: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2020-04-21 22:06:33,143 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:06:33,143 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:06:33,143 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:06:33,143 [Worker-25: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 22:06:36,776 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:06:36,776 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:06:36,783 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:06:36,783 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 22:57:13,430 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:57:13,430 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:57:13,430 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:57:13,430 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 22:58:04,367 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:58:04,367 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:58:04,367 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:58:04,367 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 22:58:58,249 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:58:58,249 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:58:58,249 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:58:58,249 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 22:59:25,592 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:59:25,592 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 22:59:25,592 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 22:59:25,592 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:01:55,714 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:01:55,714 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:01:55,714 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:01:55,714 [Worker-39: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:02:41,471 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:02:41,471 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:02:41,471 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:02:41,471 [Worker-38: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:03:44,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:03:44,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:03:44,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:03:44,615 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:04:33,004 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:33,004 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:04:33,004 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:04:33,004 [Worker-41: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:05:08,841 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:05:08,841 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-04-21 23:05:08,841 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-04-21 23:05:08,841 [Worker-40: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1\src\test\resources
+2020-04-21 23:05:22,579 [Worker-32: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\WILLIAMXiang\eclipse-java\concurrent_programming_java\miniproject_1
+2020-04-21 23:05:22,579 [Worker-32: Launching Executing test in C__Users_WILLIAMXiang_eclipse-java_concurrent_programming_java_miniproject_1] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
