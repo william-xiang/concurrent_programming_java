@@ -1,0 +1,2 @@
+# concurrent_programming_java
+Study the fundamental concepts of concurrent programming in the context of Java 8. Learn how to use basic concurrency constructs in Java such as threads, locks, critical sections, atomic variables, isolation, actors, optimistic concurrency and concurrent collections, as well as their theoretical foundations (e.g., progress guarantees, deadlock, livelock, starvation, linearizability).
